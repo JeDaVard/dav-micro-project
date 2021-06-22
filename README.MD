@@ -17,5 +17,7 @@ Pre-requirements: Node >= 14, NPM >= 6, Docker, around 10m time
 6. please wait 1-2 minutes, it can be ready with some delay because of kafka
 7. open http://localhost:5000/docs with the browser for swagger docs
 
+(for the ease of run the ```.env``` is not gitignored, it only contains local container creds :D)
+
 ### Note
 There are a looooot of things to be improved, and that much unhandled corner cases
